@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">743891453556</string>
+  <string name="google_storage_bucket" translatable="false">unity-pong-sample-backen-4b7ce.appspot.com</string>
+  <string name="project_id" translatable="false">unity-pong-sample-backen-4b7ce</string>
+  <string name="google_api_key" translatable="false">AIzaSyBFstyjR-KM8GR2S29rU3iJrMNMkgQ5924</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBFstyjR-KM8GR2S29rU3iJrMNMkgQ5924</string>
+  <string name="google_app_id" translatable="false">1:743891453556:android:d434afc1c84b992433f321</string>
+  <string name="default_web_client_id" translatable="false">743891453556-4dck9uv4hj7i7949rjh0c6u9ut14dtlq.apps.googleusercontent.com</string>
+</resources>
